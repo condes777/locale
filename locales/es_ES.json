@@ -49,18 +49,18 @@
     "delete-all-tokens": {
       "body": "Are you sure you want to revoke all your keys?",
       "confirm-button-label": "Revoke all keys forever",
-      "cancel-button-label": "Go back"
+      "cancel-button-label": "Regresar"
     },
     "delete-token": {
       "body": "Are you sure you want to revoke ‘<0></0>’?",
       "confirm-button-label": "Revoke forever",
-      "cancel-button-label": "Go back"
+      "cancel-button-label": "Regresar"
     },
     "edit-whitelisted": {
       "title": "Address whitelist for {{name}}",
-      "add": "Add another",
-      "save-and-close": "Saves changes and close",
-      "continue": "Continue"
+      "add": "Agregar otra",
+      "save-and-close": "Guardar los cambios y salir",
+      "continue": "Continuar"
     },
     "overview": {
       "no-addresses-whitelisted": "No addresses whitelisted",
